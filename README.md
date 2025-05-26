@@ -1,0 +1,1 @@
+The following are some examples of widely used design patterns
